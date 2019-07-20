@@ -59,7 +59,7 @@ Checkout our [`examples` directory][examples] for a starter project.
 
 This repo is managed by the `lerna` package which comes with CLI and
 Node.js API for managing packages. It's already installed as `devDependency`,
-but you can also install it locally:
+but you can also install it globally:
 
 ```
 npm install --global lerna
