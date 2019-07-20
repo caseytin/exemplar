@@ -8,7 +8,7 @@ example structure defined by exemplar.
 Add `@exemplar/storybook-react-native` to your dependencies.
 
 ```bash
-npm i --save-dev @exemplar/storybook-react-native
+npm install --save-dev @exemplar/storybook-react-native
 ```
 
 Add ios and android run scripts to your `package.json`:
